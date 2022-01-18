@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login not successfully with wrong name</name>
+   <name>Login not successfully_wrong name_renamed</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e2c79e9d-4971-4838-be83-dc22082adec2</testCaseGuid>
