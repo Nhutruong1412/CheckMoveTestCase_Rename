@@ -17,4 +17,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Folder 1/Shown logo - hiển thị logo</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>b750858f-e343-4bb5-9ae8-853bc1bd73af</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login not successfully with wrong password</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>453595ad-8d5b-4f6c-b062-b59bfafde506</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login not successfully_wrong name_renamed</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
