@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>welcome not have maintainer</name>
+   <name>welcome have maintainer</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>3c32a5e0-8ef6-4cdf-9790-0069d7f2d4eb</testCaseGuid>

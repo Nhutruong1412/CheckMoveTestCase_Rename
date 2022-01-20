@@ -15,7 +15,7 @@
       <guid>bceecbb4-9f32-435c-bf13-35fb86acbf8a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Folder 3/Folder 3.1/Folder 3.1.1/welcome not have maintainer</testCaseId>
+      <testCaseId>Test Cases/Folder 3/Folder 3.1/Folder 3.1.1/welcome have maintainer</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>9d2f03fb-bce3-4c87-9038-9e9bc51eabbf</guid>
