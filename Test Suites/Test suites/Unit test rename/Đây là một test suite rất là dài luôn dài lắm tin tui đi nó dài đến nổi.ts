@@ -27,6 +27,6 @@
       <guid>453595ad-8d5b-4f6c-b062-b59bfafde506</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Login not successfully_wrong name_renamed</testCaseId>
+      <testCaseId>Test Cases/Login/Đăng nhập không thành công với sai tên</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
