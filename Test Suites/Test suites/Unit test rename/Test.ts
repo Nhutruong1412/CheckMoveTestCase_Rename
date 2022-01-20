@@ -12,15 +12,9 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>a0bb102a-44c3-4d1d-b833-5295c7ae2b0f</testSuiteGuid>
    <testCaseLink>
-      <guid>20252a41-22bb-4c84-a584-ba754ac477cc</guid>
+      <guid>b17cf232-64be-4bfe-b5f2-b11a5c7d3899</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Login successfully with valid infor_Renamed</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>eba62860-26b0-43a4-9558-95d1b8210334</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Home page/welcome not have maintainer_Renamed</testCaseId>
+      <testCaseId>Test Cases/Folder 2/显示的徽标 - hiển thị 徽标</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
