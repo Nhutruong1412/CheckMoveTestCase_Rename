@@ -14,7 +14,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/Test</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Test suites/Unit test rename/Test</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

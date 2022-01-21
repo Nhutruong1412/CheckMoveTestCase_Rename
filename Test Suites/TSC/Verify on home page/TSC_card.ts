@@ -14,7 +14,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/Verify card</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Test suites/Unit test rename/Verify card</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
