@@ -74,7 +74,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <runConfigurationId>Firefox (headless)</runConfigurationId>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Test suites/Unit test rename/Đây là một test suite rất là dài luôn dài lắm tin tui đi nó dài đến nổi</testSuiteEntity>
